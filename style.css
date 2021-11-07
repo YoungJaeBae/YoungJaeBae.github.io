@@ -1,0 +1,23 @@
+.display-6 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+body {
+  font-family: "Segoe UI";
+}
+
+a {
+  color: lightblue;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+a:visited {
+  color: rgba(255, 187, 0, 0.87);
+}
